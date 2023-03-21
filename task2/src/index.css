@@ -1,0 +1,43 @@
+.avatar{
+  display: flex;
+}
+
+.MainAvatar{
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+}
+
+
+.LoadArea{
+  margin-left: 200px;
+  margin-top: 20px;;
+  line-height: 130px;
+  text-align: center;
+  height: 150px;
+  width: 200px;
+  border: 1px solid black;
+}
+
+.DropArea{
+  margin-left: 200px;
+  margin-top: 20px;;
+  line-height: 130px;
+  text-align: center;
+  height: 150px;
+  width: 200px;
+  color: green;
+  border: 1px dashed rgb(68, 228, 19);
+}
+
+.PhotoList{
+  display: flex;
+  margin-top: 15px;
+  border: 1px dotted gray;
+  height: 80px;
+}
+
+.avatar{
+  width: 200px;
+  height: 200px;
+}
